@@ -1,4 +1,5 @@
 # 코딩테스트 대비 문제집 with Baekjoon
+## 추후 scpc 도전예정.
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
 
