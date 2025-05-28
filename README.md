@@ -1,6 +1,9 @@
 # 코딩테스트 대비 문제집 with Baekjoon
 ## 추후 scpc 도전예정.
 
+- 본 프로젝트는 포크 된 프로젝트입니다.
+이 포크된 프로젝트는 학습 용도로만 이용하고 이거갖고 자신이 한거마냥 껄떡대진않습니다.
+
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
 
 <!--
